@@ -77,7 +77,7 @@ const Home = ({ file, instadata }) => (
     </section>
     <Contact />
     <Ogrenciyorumlari />
-
+    {/*
     <section id="instafeed" className={styles.instafeedsection}>
           <Swiper
             slidesPerView={4}
@@ -114,6 +114,7 @@ const Home = ({ file, instadata }) => (
                 
             </Swiper>
         </section>
+        */}
   </Layout>
 );
 

@@ -11,7 +11,7 @@ const HeroWrap = props => {
         <div className={styles.breadcrumbs}>
           <span>
             <Link href="/">
-              <a className="flex items-center border-b-2 border-yellow-500">
+              <a className="flex items-center border-b-2 border-blue-500">
                 Anasayfa <IoIosArrowForward />
               </a>
             </Link>

@@ -1,8 +1,7 @@
 ---
-title: "Vip Dahi Kalemler"
-description1: "Deneyimli akademik kadrosuyla bireysel farklılıkları dikkate alarak uyguladığı eğitim- öğretim sistemi ile, bilgi ve zamanı nasıl kullanması gerektiği öğrenciye öğretilir.
-               Öğrencilerimize tüm konular anlatılacak ve bu konuların anlaşılıp anlaşılmadığı test edilerek anlaşılmayan konular tekrardan anlatılacak ve yeniden test yapılacaktır. Anlamamışsa birebir tekrardan konu anlatılacaktır."
-description2: "Bizim için her öğrencimiz ayrı bir değerdir.Her öğrenci ayrı olarak değerlendirilir ve onun ilgi ve yetenekli olduğu alana göre eksik olduğu konulara göre çalışma planı hazırlanır."
+title: 'Pusula Kurs Merkezi '
+description1: 'Yaklaşık yirmi yıldan bu yana eğitim alanında kaliteli, yenilikçi ve çağdaş eğitim anlayışıyla başarılarını sürdüren, sürekli kendini geliştiren ve sağlam adımlarla büyüyen Pusula Kurs Merkezi, geleceğin başarılı bireylerinin yetişmesine katkı sağlıyor ve onlara birçok eğitimin birçok alanında destek oluyor. Yılların deneyim ve bilgi birikimi ile Pusula Kurs Merkezi, öğrencilerinin başarılı olmaları için önemli fırsatlar ve çalışma ortamı sunuyor. '
+description2: 'Pusula Kurs Merkezinin sınavlara yaklaşımı, ölçme-değerlendirme alanındaki uzmanlığı, mentör öğretmen-rehberlik birimi iş birliğiyle öğrencilerimizi liselere ve üniversiteye hazırlıyoruz.'
 ogretmen: 100
 ogrenci: 2000
 sube: 4

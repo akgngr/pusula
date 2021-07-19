@@ -1,19 +1,9 @@
 ---
-title: "Vizyon - Misyon"
+title: 'Vizyonumuz'
 ---
 
 ## Vizyonumuz;
-Her yerde ve her zaman başarılı olacak, geleceğe şimdiden hazır, 21. yüzyılın;
-Sorgulayan,   Sorunlara pratik  çözüm getiren,   Girişken,   Yurtsever, Öğrenmeyi seven
-Yüksek donanımlı, Üretken, Ahlaklı, Dinamik,  Soruları hızlı ve pratik şekilde çözebilen
-Bireylerinin yetiştirildiği, Türkiye’nin önde gelen Üniversitelerine girmeye aday olmak.
 
-## Misyonumuz;
-Atatürk ilke ve düşüncelerini benimsemiş,
-Bireysel farklılıkların önemsendiği bir ortamda,
-Dünya’da ve Türkiye’de tercih edilen, ülke geleceğine olumlu katkılarda bulunacak,
-Üretken, Sorumluluk sahibi, Araştıran, Sorgulayan,
-Bilimsel düşünceyi ön planda tutan beyinleri;
-En gelişmiş öğretim yöntemleriyle birleştirilmiş,
-Teknoloji destekli,
-Öğrencilerimizi kapasitelerinin en üst seviyesine çıkarmak,
+Geleceğin dünyası ve Türkiye’sinin şartlarını şimdiden ön görüp genç bireylerimize rehberlik ederek gerekli donanımları edinmelerini sağlamak, bu vesile ile hem hizmet verdiğimiz bireylere hem de ülkemizin geleceğine katkıda bulunmaktır.
+<br /><br />
+Pusula Kurs Merkezi ile öğrenciler, akademik ve bireysel becerilerini geliştirirken, kişiye özgü mentörler ile kariyer planlaması yaparak sınavlara hazırlanır. Sınavlara hazırlıkta konu anlatımları ve soru çözümlerinin yanı sıra öğrencilere yeni bir bakış açısı kazandıran Pusula Kurs Merkezi; planlama, öğrenme, uygulama, ölçme ve değerlendirme süreçlerini takip ederek, eğitimin kalitesini yükseltmektedir.

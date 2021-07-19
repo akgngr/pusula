@@ -1,19 +1,13 @@
 ---
-title: "Eğitim Felsefemiz"
+title: 'Rehberlik Servisimiz'
 ---
 
-## Öğrenim Hedeflerimiz
-Kurumlarımızın her birinde eğitim standartları ve öğrenim hedefleri aynıdır. Milli Eğitim Temel Kanunu, sürdürülen eğitim faaliyetlerinin temel yol göstericisidir. Öğrenim yılı boyunca değişik zümrelerdeki öğretmenlerimiz bilgi tazeleme seminerleri ve grup çalışmalarında bir araya gelerek her dersle ilgili ayrıntılı olarak öğrenim hedeflerini, bu hedeflere ulaşabilmek için gerekli öğretim metod ve yaklaşımları belirler.
+## Rehberlik Servisimiz
 
-***VİP DAHİ KALEMLER***’ de verilen bilgiler sürekli test edilerek öğrencide bilgi unutulmaz. İşlenen her konu bir zincir şeklinde bağlantılı olarak öğrenme sürecine katkı sağlar. VİP DAHİ KALEMLER’ de ezber değil, kavratma yolu vardır. Bu yol izlenirken öğrenci ile öğretmen arasında kuvvetli bir bağ kurulur ve bu da başarıda önemli bir rol oynar. Her öğrencinin öğrenme şekli farklıdır. Eğitim bireyseldir Bu özgünlüğün farkında olan öğretmenler tarafından doğru yöntem ve yaklaşımlarla gerçekleştirilen öğretim üniversiteye hazırlık gibi uzun soluklu bir süreçte kalıcılık sağlar.
+Pusula Kurs Merkezi rehberlik servisleri, öğrencilerin gelişimsel özelliklerindeki farklılıkları dikkate alarak bunların olumsuz etkilerini minimize etmeye çalışır.
 
-***VİP DAHİ KALEMLER***, deneyimli akademik kadrosuyla bireysel farklılıkları dikkate alarak uyguladığı eğitim- öğretim sistemi ile, bilgi ve zamanı nasıl kullanması gerektiği öğrenciye öğretilir.
+Öğrencilere eğitim koçluğu yapar, ailevi, kişisel ve akran gruplarıyla yaşayacağı olası sorunlara çözüm yolları geliştirir. Pusulada öğrencilerin okul başarısını artırmaya yönelik yapılan çalışmalar rehber öğretmenler tarafından planlanır.
 
-Öğrencilerimize tüm konular anlatılacak ve bu konuların anlaşılıp anlaşılmadığı test edilerek anlaşılmayan konular tekrardan anlatılacak ve yeniden test yapılacaktır. Anlamamışsa birebir tekrardan konu anlatılacaktır.
+Öğrencinin sınav başarısı kadar okul başarısı da önemsenir. Okulda uygulanan sınavlardan önce öğrencinin hazırlığına destek olmak, onların yüksek puan almalarını sağlamak, sınav sonrasında yapamadığı soruları ve konuları tekrar ederek eksiklerini tamamlamak amacıyla takviye dersleri verilir.
 
-Bizim için her öğrencimiz ayrı bir değerdir. Her öğrenci ayrı olarak değerlendirilir ve onun ilgi ve yetenekli olduğu alana göre eksik olduğu konulara göre çalışma planı hazırlanır.
-
-***VİP DAHİ KALEMLER*** ‘de öğrenme atmosferi güvenli ve destekleyicidir. Öğrenciler soru sormaya teşvik edilir, öğrenme faaliyetlerinin planlanmasında katkıda bulunur. Öğrencilerin görüş ve değerlerine saygı duyulur.
-
-## Değerlendirme:
-***VİP DAHİ KALEMLER*** de değerlendirme, önceden belirlenmiş öğrenim hedeflerine ulaşılıp ulaşılmadığını sınamak ve öğrencinin eksikliklerini tamamlamasına katkıda bulunmak amacını taşır. Değerlendirme sonucuna göre veli bilgilendirilir ve öğrencini varsa ihtiyacı veli,öğrenci ve kurum birlikte toplantı yapıp yeni bir çalışma planı hazırlanır.
+Rehberlik servisimiz aynı zamanda LGS – TYT – AYT’ye girecek öğrencilerimize sınav rehberliği yapar ve sınav tercihlerini sağlıklı yapabilmeleri için onlara profesyonel destek sağlar.

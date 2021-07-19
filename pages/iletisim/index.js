@@ -37,7 +37,7 @@ class iletisim extends Component {
           <section className={styles.section}>
             <article className={styles.form}>
               <header className="mb-6">
-                <h2 className="font-semibold text-yellow-700 text-2xl pb-2">İletişim Formu</h2>
+                <h2 className="font-semibold text-blue-700 text-2xl pb-2">İletişim Formu</h2>
                 <p className="font-light">
                   Bizimle iletişime geçin.. İsterseniz iletişim bilgilerinizi girin biz sizinle iletişime geçelim..
                 </p>

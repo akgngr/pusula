@@ -1,12 +1,12 @@
 import Layout from '../../components/layout';
 import { Component } from 'react';
-import { attributes, react as CekmekoyOrtaokulCompnent } from '../../content/cekmekoyortaokul.md';
+import { attributes, react as CekmekoyliseComponent } from '../../content/gunes.md';
 import HeroWrap from '../../components/herowrap';
 import styles from './styles.module.css';
 import SimpleReactLightbox, { SRLWrapper } from 'simple-react-lightbox';
 import Seo from '../../partials/seo';
 
-class cekmekoyortaokul extends Component {
+class cekmekoylise extends Component {
   render() {
     let { title, description, galeri } = attributes;
     return (
@@ -40,4 +40,4 @@ class cekmekoyortaokul extends Component {
   }
 }
 
-export default cekmekoyortaokul;
+export default cekmekoylise;

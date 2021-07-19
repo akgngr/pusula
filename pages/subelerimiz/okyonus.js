@@ -1,6 +1,6 @@
 import Layout from '../../components/layout';
 import { Component } from 'react';
-import { attributes, react as BulgurluCompnent } from '../../content/bulgurlu.md';
+import { attributes, react as BulgurluCompnent } from '../../content/okyonus.md';
 import HeroWrap from '../../components/herowrap';
 import styles from './styles.module.css';
 import SimpleReactLightbox, { SRLWrapper } from 'simple-react-lightbox';

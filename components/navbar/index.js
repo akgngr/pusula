@@ -18,8 +18,8 @@ export default function Navbar({ fixed }) {
           url: '/hakkimizda',
         },
         {
-          name: 'Eğitim Felsefemiz',
-          url: '/egitim-felsefemiz',
+          name: 'Rehberlik Servisimiz',
+          url: '/rehberlik-servisi',
         },
         {
           name: 'Misyon ve Vizyon',
@@ -32,22 +32,14 @@ export default function Navbar({ fixed }) {
       url: '/subelerimiz',
       dropdown: [
         {
-          name: 'Çekmeköy Lise',
-          url: '/subelerimiz/cekmekoy-lise',
+          name: 'Okyonus Şubesi',
+          url: '/subelerimiz/okyonus',
         },
         {
-          name: 'Çekmeköy Ortaokul',
-          url: '/subelerimiz/cekmekoy-ortaokul',
-        },
-        {
-          name: 'Bulgurlu',
-          url: '/subelerimiz/bulgurlu',
+          name: 'Güneş Şubesi',
+          url: '/subelerimiz/gunes',
         },
       ],
-    },
-    {
-      name: 'Farkımız',
-      url: '/farkimiz-ve-programimiz',
     },
     {
       name: 'Kurslarımız',

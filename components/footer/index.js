@@ -19,11 +19,6 @@ class Footer extends Component {
       sube2_tel,
       sube2_sabit,
       sube2_mail,
-      sube3_title,
-      sube3_map,
-      sube3_tel,
-      sube3_sabit,
-      sube3_mail,
       alt_footer,
       twitter,
       facebook,
@@ -35,6 +30,31 @@ class Footer extends Component {
       <>
         <footer className={styles.footer}>
           <div className={styles.ftcontainer}>
+          <div className={styles.ftcard}>
+              <h3>Pusula Kurs Merkezi</h3>
+              <div>
+                <Link href="/">
+                  <a>
+                    <img src="/image/logo.jpeg" width="140" height="50" />
+                  </a>
+                </Link>
+              </div>
+              <p className="py-4">
+                18 yılı aşmış tecrübemizle ve deneyimli eğitim kadromuzla öğrencilerimizin hedeflerine ulaşmaları konusunda rehber olmaktan gurur duyuyoruz.
+              </p>
+            </div>
+            <div className={styles.ftcard}>
+              <h3>Hızlı Erişim</h3>
+              <ul className={styles.linkler}>
+                {linkler.map(l => (
+                  <li key={l.url}>
+                    <Link href={l.url}>
+                      <a>{l.name}</a>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
             <div className={styles.ftcard}>
               <h3>{sube1_title}</h3>
               <div>
@@ -100,51 +120,6 @@ class Footer extends Component {
                   <a href={'mailto:' + sube2_mail}>{sube2_mail}</a>
                 </span>
               </div>
-            </div>
-            <div className={styles.ftcard}>
-              <h3>{sube3_title}</h3>
-              <div>
-                <span>
-                  <FaMapMarkerAlt />
-                </span>
-                <span>{sube3_map}</span>
-              </div>
-              <div>
-                <span>
-                  <FaPhone />
-                </span>
-                <span>
-                  <a href={'tel:' + sube3_tel}>{sube3_tel}</a>{' '}
-                </span>
-              </div>
-              <div>
-                <span>
-                  <FaPhone />
-                </span>
-                <span>
-                  <a href={'tel:' + sube3_sabit}>{sube3_sabit}</a>{' '}
-                </span>
-              </div>
-              <div>
-                <span>
-                  <FaEnvelope />
-                </span>
-                <span>
-                  <a href={'mailto:' + sube3_mail}>{sube3_mail}</a>
-                </span>
-              </div>
-            </div>
-            <div className={styles.ftcard}>
-              <h3>Hızlı Erişim</h3>
-              <ul className={styles.linkler}>
-                {linkler.map(l => (
-                  <li key={l.url}>
-                    <Link href={l.url}>
-                      <a>{l.name}</a>
-                    </Link>
-                  </li>
-                ))}
-              </ul>
             </div>
           </div>
           <div className={styles.altfooter}>

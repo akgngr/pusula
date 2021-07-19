@@ -13,8 +13,8 @@ collections:
         fields:
           - { label: 'Başlık', name: 'title', widget: 'string' }
           - { label: 'Gövde', name: 'body', widget: 'markdown' }
-      - label: 'Eğitim Felsefemiz'
-        name: 'egitimfelsefesi'
+      - label: 'Rehberlik Servisimiz'
+        name: 'rehberlikservisi'
         file: 'content/felsefe.md'
         fields:
           - { label: 'Başlık', name: 'title', widget: 'string' }
@@ -25,25 +25,18 @@ collections:
         fields:
           - { label: 'Başlık', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-      - label: 'Farkımız ve Programımız'
-        name: 'farkimiz'
-        file: 'content/farkimiz.md'
-        fields:
-          - { label: 'Başlık', name: 'title', widget: 'string' }
-          - { label: 'Açıklama', name: 'description', widget: 'text' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
-      - label: 'Sıkça Sorulan Sorula'
+      - label: 'Sıkça Sorulan Sorular'
         name: 'sss'
         file: 'content/sss.md'
         fields:
           - { label: 'Başlık', name: 'title', widget: 'string' }
           - { label: 'Açıklama', name: 'description', widget: 'text' }
-          - label: "Sorular"
-            name: "sorular"
+          - label: 'Sorular'
+            name: 'sorular'
             widget: list
             fields:
-              - { label: "Soru Başlığı", name: "soru", widget: "string" }
-              - { label: "Cevabı", name: "text", widget: "text"}
+              - { label: 'Soru Başlığı', name: 'soru', widget: 'string' }
+              - { label: 'Cevabı', name: 'text', widget: 'text' }
 
   - name: 'module'
     label: 'Moduller'
@@ -120,10 +113,6 @@ collections:
           - { label: 'Şube 2 Harita', name: 'sube2_map', widget: 'string' }
           - { label: 'Şube 2 E-posta', name: 'sube2_mail', widget: 'string' }
           - { label: 'Şube 2 Telefon', name: 'sube2_tel', widget: 'string' }
-          - { label: 'Şube 3 Title', name: 'sube3_title', widget: 'string' }
-          - { label: 'Şube 3 Harita', name: 'sube3_map', widget: 'string' }
-          - { label: 'Şube 3 E-posta', name: 'sube3_mail', widget: 'string' }
-          - { label: 'Şube 3 Telefon', name: 'sube3_tel', widget: 'string' }
           - { label: 'Alt Footer Açıklama', name: 'alt_footer', widget: 'text' }
           - { label: 'Hizmet 2', name: 'youtube', widget: 'string' }
           - { label: 'Açıklama 2', name: 'twitter', widget: 'string' }
@@ -191,9 +180,9 @@ collections:
   - label: 'Şubelerimiz'
     name: 'subeler'
     files:
-      - label: 'Çekmeköy Lise Şubesi'
-        name: 'cekmekoylisesubesi'
-        file: 'content/cekmekoylise.md'
+      - label: 'Güneş Şubesi'
+        name: 'gunessubesi'
+        file: 'content/gunes.md'
         fields:
           - { label: 'Başlık', name: 'title', widget: 'string' }
           - { label: 'Açıklama', name: 'description', widget: 'text' }
@@ -203,24 +192,12 @@ collections:
             fields:
               - { label: 'Başlık', name: 'name', widget: 'string' }
               - { label: 'Galeri Resmi', name: 'image', widget: 'image' }
-      - label: 'Çekmeköy Lise Şubesi'
-        name: 'cekmekoyortaokulsubesi'
-        file: 'content/cekmekoyortaokul.md'
+      - label: 'Okyonus Şubesi'
+        name: 'okyonussubesi'
+        file: 'content/okyonus.md'
         fields:
           - { label: 'Başlık', name: 'title', widget: 'string' }
           - { label: 'Açıklama', name: 'description', widget: 'text' }
-          - label: 'Galeri'
-            name: 'galeri'
-            widget: list
-            fields:
-              - { label: 'Başlık', name: 'name', widget: 'string' }
-              - { label: 'Galeri Resmi', name: 'image', widget: 'image' }
-      - label: 'Bulgurlu Şubesi'
-        name: 'bulgurlusubesi'
-        file: 'content/bulgurlu.md'
-        fields:
-          - { label: 'Başlık', name: 'title', widget: 'string' }
-          - { label: 'Açıklama', name: 'description', widget: 'string' }
           - label: 'Galeri'
             name: 'galeri'
             widget: list
