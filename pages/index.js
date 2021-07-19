@@ -13,9 +13,8 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import Contact from '../components/contact';
 import Ogrenciyorumlari from '../components/ogrenciyorumlari';
 import Seo from '../partials/seo';
-import Popup from '../components/popup';
 
-const { INSTA_URL } = process.env;
+//const { INSTA_URL } = process.env;
 
 
 SwiperCore.use([Navigation, Autoplay, Lazy, EffectFade]);
@@ -120,11 +119,11 @@ const Home = ({ file, instadata }) => (
 
 export const getStaticProps = async () => {
   const files = fs.readdirSync('_posts/dersler');
-  const instaresult = await fetch( INSTA_URL, {
-    method: "GET"
-  });
+  //const instaresult = await fetch( INSTA_URL, {
+  //  method: "GET"
+  //});
 
-  const instafeed = await instaresult.json();
+  //const instafeed = await instaresult.json();
 
 
   const filesread = files.map(file => {
@@ -141,7 +140,7 @@ export const getStaticProps = async () => {
     props: {
       slugs: files.map(filename => filename.replace('.md', '')),
       file: filesread,
-      instadata: instafeed 
+      //instadata: instafeed 
     },
   };
 };
