@@ -13,12 +13,10 @@ class Footer extends Component {
       sube1_map,
       sube1_tel,
       sube1_sabit,
-      sube1_mail,
       sube2_title,
       sube2_map,
       sube2_tel,
       sube2_sabit,
-      sube2_mail,
       alt_footer,
       twitter,
       facebook,
@@ -30,12 +28,12 @@ class Footer extends Component {
       <>
         <footer className={styles.footer}>
           <div className={styles.ftcontainer}>
-          <div className={styles.ftcard}>
+            <div className={styles.ftcard}>
               <h3>Pusula Kurs Merkezi</h3>
               <div>
                 <Link href="/">
                   <a>
-                    <img src="/image/logo.jpeg" width="140" height="50" />
+                    <img src="/image/logo.png" width="140" height="50" />
                   </a>
                 </Link>
               </div>
@@ -43,6 +41,7 @@ class Footer extends Component {
                 18 yılı aşmış tecrübemizle ve deneyimli eğitim kadromuzla öğrencilerimizin hedeflerine ulaşmaları konusunda rehber olmaktan gurur duyuyoruz.
               </p>
             </div>
+
             <div className={styles.ftcard}>
               <h3>Hızlı Erişim</h3>
               <ul className={styles.linkler}>
@@ -79,14 +78,16 @@ class Footer extends Component {
                   <a href={'tel:' + sube1_sabit}>{sube1_sabit}</a>
                 </span>
               </div>
-              <div>
-                <span>
-                  <FaEnvelope />
-                </span>
-                <span>
-                  <a href={'mailto:' + sube1_mail}>{sube1_mail}</a>
-                </span>
-              </div>
+              {/**
+                <div>
+                  <span>
+                    <FaEnvelope />
+                  </span>
+                  <span>
+                    <a href={'mailto:' + sube1_mail}>{sube1_mail}</a>
+                  </span>
+                </div>
+              */}
             </div>
             <div className={styles.ftcard}>
               <h3>{sube2_title}</h3>
@@ -112,14 +113,16 @@ class Footer extends Component {
                   <a href={'tel:' + sube2_sabit}>{sube2_sabit}</a>{' '}
                 </span>
               </div>
-              <div>
-                <span>
-                  <FaEnvelope />
-                </span>
-                <span>
-                  <a href={'mailto:' + sube2_mail}>{sube2_mail}</a>
-                </span>
-              </div>
+              {/**
+                <div>
+                  <span>
+                    <FaEnvelope />
+                  </span>
+                  <span>
+                    <a href={'mailto:' + sube2_mail}>{sube2_mail}</a>
+                  </span>
+                </div>
+              */}
             </div>
           </div>
           <div className={styles.altfooter}>
@@ -141,7 +144,7 @@ class Footer extends Component {
                 </a>
               </span>
               <span>
-                <a href={'https://youtube.com/' + youtube}>
+                <a href={youtube}>
                   <SiYoutubetv size="2em" />
                 </a>
               </span>

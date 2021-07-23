@@ -22,8 +22,8 @@ SwiperCore.use([Navigation, Autoplay, Lazy, EffectFade]);
 const Home = ({ file, instadata }) => (
   <Layout>
     <Seo
-      title="Vip Dahi Kalemler İstanbul"
-      description="19 yılı aşmış tecrübemizle ve deneyimli eğitim kadromuzla öğrencilerimizin hedeflerine ulaşmaları konusunda rehber olmaktan gurur duyuyoruz."
+      title="Pusula Kurs Merkezi Şanlıurfa"
+      description="18 yılı aşmış tecrübemizle ve deneyimli eğitim kadromuzla öğrencilerimizin hedeflerine ulaşmaları konusunda rehber olmaktan gurur duyuyoruz."
     />
     <Slider />
     <Hizmetler />

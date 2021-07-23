@@ -26,6 +26,12 @@ collections:
         fields:
           - { label: 'Başlık', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Kurucu Mesajı'
+        name: 'kurucu-mesaji'
+        file: 'content/kurucu-mesaji.md'
+        fields:
+          - { label: 'Başlık', name: 'title', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: 'Sıkça Sorulan Sorular'
         name: 'sss'
         file: 'content/sss.md'

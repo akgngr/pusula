@@ -25,6 +25,10 @@ export default function Navbar({ fixed }) {
           name: 'Misyon ve Vizyon',
           url: '/misyon-vizyon',
         },
+        {
+          name: 'Kurucumuzun Mesajı',
+          url: '/kurucu-mesaji',
+        },
       ],
     },
     {

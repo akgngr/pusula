@@ -19,12 +19,7 @@ class yazkursu extends Component {
       sube2_map,
       sube2_tel,
       sube2_sabit,
-      sube2_mail,
-      sube3_title,
-      sube3_map,
-      sube3_tel,
-      sube3_sabit,
-      sube3_mail,
+      sube2_mail
     } = attributes;
     return (
       <>
@@ -131,7 +126,8 @@ class yazkursu extends Component {
                       <a href={'tel:' + sube1_sabit}>{sube1_sabit}</a>
                     </span>
                   </div>
-                  <div>
+                  {/**
+                   <div>
                     <span>
                       <FaEnvelope />
                     </span>
@@ -139,6 +135,7 @@ class yazkursu extends Component {
                       <a href={'mailto:' + sube1_mail}>{sube1_mail}</a>
                     </span>
                   </div>
+                   */}
                 </div>
               </div>
               <div className={styles.iletisimalt}>
@@ -176,7 +173,8 @@ class yazkursu extends Component {
                       <a href={'tel:' + sube2_sabit}>{sube2_sabit}</a>
                     </span>
                   </div>
-                  <div>
+                  {/**
+                   <div>
                     <span>
                       <FaEnvelope />
                     </span>
@@ -184,51 +182,7 @@ class yazkursu extends Component {
                       <a href={'mailto:' + sube2_mail}>{sube2_mail}</a>
                     </span>
                   </div>
-                </div>
-              </div>
-              <div className={styles.iletisimalt}>
-                <div>
-                  <Iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3010.309103960204!2d29.078346315152483!3d41.01849292674551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac9b3e0cba229%3A0xe98af6b3e14516ec!2sVIP%20DAH%C4%B0%20KALEMLER%20BULGURLU%20%C5%9EUBES%C4%B0!5e0!3m2!1str!2str!4v1618909854643!5m2!1str!2str"
-                    width="100%"
-                    height="355"
-                    style="border:0;"
-                    allowFullScreen=""
-                    loading="lazy"
-                  ></Iframe>
-                </div>
-                <div>
-                  <h3>{sube3_title}</h3>
-                  <div>
-                    <span>
-                      <FaMapMarkerAlt />
-                    </span>
-                    <span>{sube3_map}</span>
-                  </div>
-                  <div>
-                    <span>
-                      <FaPhone />
-                    </span>
-                    <span>
-                      <a href={'tel:' + sube3_tel}>{sube3_tel}</a>{' '}
-                    </span>
-                  </div>
-                  <div>
-                    <span>
-                      <FaPhone />
-                    </span>
-                    <span>
-                      <a href={'tel:' + sube3_sabit}>{sube3_sabit}</a>
-                    </span>
-                  </div>
-                  <div>
-                    <span>
-                      <FaEnvelope />
-                    </span>
-                    <span>
-                      <a href={'mailto:' + sube3_mail}>{sube3_mail}</a>
-                    </span>
-                  </div>
+                   */}
                 </div>
               </div>
             </div>

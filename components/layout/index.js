@@ -17,7 +17,7 @@ const layout = ({ children }) => {
           <div className="col-span-1 lg:col-span-3 py-4 lg:py-6">
             <Link href="/">
               <a>
-                <img src="/image/logo.jpeg" width="140" height="50" />
+                <img src="/image/logo.png" width="140" height="50" />
               </a>
             </Link>
           </div>
