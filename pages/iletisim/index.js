@@ -67,7 +67,7 @@ class iletisim extends Component {
               <div className={styles.iletisimalt}>
                 <div>
                   <Iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96309.97948803555!2d29.105437570294924!3d41.032106354094026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cacf9c0348e6ef%3A0x329c1536e6fdf92a!2zVklQIERBSMSwIEtBTEVNTEVSIMOHRUtNRUvDllkgxZ5VQkVTxLA!5e0!3m2!1str!2str!4v1618516625589!5m2!1str!2str"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3177.13622841848!2d38.80023331530178!3d37.22074087986399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1ffafa37b8ee91e2!2sPusula%20Kurs%20Merkezi!5e0!3m2!1str!2str!4v1627291741918!5m2!1str!2str"
                     width="100%"
                     height="355"
                     style="border:0;"
@@ -114,7 +114,7 @@ class iletisim extends Component {
               <div className={styles.iletisimalt}>
                 <div>
                   <Iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387.25810902885723!2d29.182020427943957!3d41.031730272023694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cacf035a568e93%3A0x25f2eabdcba12e2b!2zS2_Dp3RhxZ8gRml4!5e0!3m2!1str!2str!4v1618909534026!5m2!1str!2str"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3177.13622841848!2d38.80023331530178!3d37.22074087986399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1ffafa37b8ee91e2!2sPusula%20Kurs%20Merkezi!5e0!3m2!1str!2str!4v1627291741918!5m2!1str!2str"
                     width="100%"
                     height="355"
                     style="border:0;"
@@ -167,3 +167,4 @@ class iletisim extends Component {
 }
 
 export default iletisim;
+

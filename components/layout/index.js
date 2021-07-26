@@ -2,6 +2,7 @@ import Link from 'next/link';
 import styles from './index.module.css';
 import { IconContext } from 'react-icons';
 import { IoIosCall } from 'react-icons/io';
+import { SiWhatsapp } from 'react-icons/si';
 import Navbar from '../navbar/index';
 import Footer from '../footer';
 
@@ -14,7 +15,7 @@ const layout = ({ children }) => {
     <>
       <header className={styles.header}>
         <div className={styles.navbartop}>
-          <div className="col-span-1 lg:col-span-3 py-4 lg:py-6">
+          <div className="col-span-1 lg:col-span-2 py-4 lg:py-6">
             <Link href="/">
               <a>
                 <img src="/image/logo.png" width="140" height="50" />
@@ -23,7 +24,7 @@ const layout = ({ children }) => {
           </div>
 
           <IconContext.Provider value={{ className: 'site-icon' }}>
-            <div className="flex justify-start items-start space-x-4 py-4 lg:py-6">
+            <div className="lg:flex hidden justify-start items-start space-x-4 py-4 lg:py-6 ">
               <div className={styles.ortala}>
                 <IoIosCall />
               </div>
@@ -31,9 +32,26 @@ const layout = ({ children }) => {
               <div className="flex flex-col">
                 <span className="font-bold">Telefon</span>
                 <span>
-                  <a href="tel:+905071520956">0507 152 09 56</a>{' '}
+                  <a href="tel:+905551976303">0507 152 09 56</a>{' '}
                 </span>
               </div>
+              
+            </div>
+          </IconContext.Provider>
+
+          <IconContext.Provider value={{ className: 'site-icon' }}>
+            <div className="flex justify-start items-start space-x-4 py-4 lg:py-6">
+              <div className={styles.ortala}>
+                <SiWhatsapp />
+              </div>
+
+              <div className="flex flex-col">
+                <span className="font-bold">Whastapp</span>
+                <span>
+                  <a href="https://wa.me/905551976303">0507 152 09 56</a>{' '}
+                </span>
+              </div>
+              
             </div>
           </IconContext.Provider>
 

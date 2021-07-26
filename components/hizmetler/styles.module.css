@@ -6,7 +6,7 @@
   @apply py-12 px-6 h-96 flex justify-center items-center flex-col text-white;
 }
 .hizmet2 {
-  background: #0f1329;
+  background: #fdc000;
   @apply py-12 px-6 h-96 flex justify-center items-center flex-col text-white;
 }
 .icon {

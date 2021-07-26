@@ -38,7 +38,7 @@ class Footer extends Component {
                 </Link>
               </div>
               <p className="py-4">
-                18 yılı aşmış tecrübemizle ve deneyimli eğitim kadromuzla öğrencilerimizin hedeflerine ulaşmaları konusunda rehber olmaktan gurur duyuyoruz.
+                18 yılı aşkın tecrübemizle ve deneyimli eğitim kadromuzla öğrencilerimizin hedeflerine ulaşmaları konusunda rehber olmaktan gurur duyuyoruz.
               </p>
             </div>
 
@@ -70,6 +70,7 @@ class Footer extends Component {
                   <a href={'tel:' + sube1_tel}>{sube1_tel}</a>
                 </span>
               </div>
+              {/**
               <div>
                 <span>
                   <FaPhone />
@@ -78,7 +79,7 @@ class Footer extends Component {
                   <a href={'tel:' + sube1_sabit}>{sube1_sabit}</a>
                 </span>
               </div>
-              {/**
+              
                 <div>
                   <span>
                     <FaEnvelope />
@@ -105,6 +106,7 @@ class Footer extends Component {
                   <a href={'tel:' + sube2_tel}>{sube2_tel}</a>{' '}
                 </span>
               </div>
+              {/**
               <div>
                 <span>
                   <FaPhone />
@@ -113,7 +115,7 @@ class Footer extends Component {
                   <a href={'tel:' + sube2_sabit}>{sube2_sabit}</a>{' '}
                 </span>
               </div>
-              {/**
+              
                 <div>
                   <span>
                     <FaEnvelope />
@@ -129,17 +131,17 @@ class Footer extends Component {
             <div className={styles.altfootertext} dangerouslySetInnerHTML={{ __html: alt_footer }}></div>
             <div className={styles.takip}>
               <span>
-                <a href={'https://twitter.com/' + twitter}>
+                <a target="_blank" href={'https://twitter.com/' + twitter}>
                   <FaTwitterSquare size="2em" />
                 </a>
               </span>
               <span>
-                <a href={'https://fb.com/' + facebook}>
+                <a target="_blank" href={'https://fb.com/' + facebook}>
                   <FaFacebookSquare size="2em" />
                 </a>
               </span>
               <span>
-                <a href={'https://instagram.com/' + instagram}>
+                <a target="_blank" href={'https://instagram.com/' + instagram}>
                   <ImInstagram size="2em" />
                 </a>
               </span>

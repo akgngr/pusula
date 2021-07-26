@@ -50,6 +50,10 @@ export default function Navbar({ fixed }) {
       url: '/kurslarimiz',
     },
     {
+      name: 'İnsan Kaynakları',
+      url: '/insan-kaynaklari',
+    },
+    {
       name: 'Duyurular',
       url: '/duyurular',
     },
@@ -63,7 +67,7 @@ export default function Navbar({ fixed }) {
     return m.dropdown ? (
       <Dropdown key={index} name={m.name} data={m.dropdown} />
     ) : (
-      <li className="nav-item inline-flex w-full px-4 py-2 text-sm font-medium" key={index}>
+      <li className="nav-item inline-flex px-4 py-2 text-sm font-medium" key={index}>
         <Link href={m.url}>
           <a className="capitalize text-white hover:opacity-75">{m.name}</a>
         </Link>

@@ -1,12 +1,10 @@
 ---
-sube1_title: 'Okyonus Şubesi'
-sube1_map: 'Şenevler, 601. Cd. No:26, 63320 Karaköprü Belediyesi/Şanlıurfa Merkez/Şanlıurfa'
+sube1_title: 'Okyanus Şubesi'
+sube1_map: 'Şenevler Mah. 601. Cd. No:30/B, Emin Apt. 63320 Karaköprü/Şanlıurfa'
 sube1_tel: '+905551976303'
-sube1_sabit: '+905551976303'
 sube2_title: 'Güneş Şubesi'
-sube2_map: 'Şenevler, 605. Cd. No:36, 63320 Karaköprü Belediyesi/Şanlıurfa Merkez/Şanlıurfa'
+sube2_map: 'Şenevler Mah. 6149. Sok. Huzur Apt. 63320 Karaköprü/Şanlıurfa'
 sube2_tel: '+905551976303'
-sube2_sabit: '+905551976303'
 alt_footer: "Copyright Pusula Kurs Merkezi © 2021 Tüm hakları saklıdır. | Design  by <a href='https://akgngr.com'>Akgngr</a>"
 twitter: 'pusula.egitim'
 facebook: 'pusula.egitim'

@@ -24,17 +24,17 @@ class yazkursu extends Component {
     return (
       <>
         <Seo
-          title="Pusula Kurs Merkezi Yaz Kursu Kayıt Formu"
-          description="Yaz kursu kayıtı için bizimle iletişime geçin. İsterseniz iletişim bilgilerinizi girin biz sizi arayalım."
+          title="Pusula Kurs Merkezi İş Başvuru Formu"
+          description="Pusula Kurs Merkezi İş Başvuru Formu"
         />
         <Layout>
-          <HeroWrap title="Yaz Kursu Başvuru Formu" />
+          <HeroWrap title="Pusula Kurs Merkezi İş Başvuru Formu" />
           <section className={styles.section}>
             <article className={styles.form}>
               <header className="mb-6">
-                <h2 className="font-semibold text-yellow-700 text-2xl pb-2">Yaz Kursu Başvuru Formu</h2>
+                <h2 className="font-semibold text-yellow-700 text-2xl pb-2">Pusula Kurs Merkezi İş Başvuru Formu</h2>
                 <p className="font-light">
-                  Yaz kursu kayıtı için iletişim bilgilerinizi bırakın sizinle iletişime geçelim..
+                  Formdaki tüm alanları eksiksiz olarak doldurun. Başvuru değerlendirme komitesi başvuruları değerlendirecek ve olumlu değerledirilen adaylar mülakat için randevulu olarak çağırılacaktır.
                 </p>
               </header>
               <div className={styles.contactform}>
@@ -64,19 +64,9 @@ class yazkursu extends Component {
                     <input type="tel" name="telefon" id="telefon" placeholder="Telefon numaranız" required={true} />
                   </div>
                   <div className={styles.formControl}>
-                    <label>
-                      <b>Öğrencinin Sınıfı</b>
-                    </label>
-                    <select className={styles.select} id="sinif" name="sinif" required={true}>
-                      <option>--Seçim Yapınız--</option>
-                      <option value="5. Sınıf">5. Sınıf</option>
-                      <option value="6. Sınıf">6. Sınıf</option>
-                      <option value="8. Sınıf">8. Sınıf</option>
-                      <option value="9. Sınıf">9. Sınıf</option>
-                      <option value="10. Sınıf">10. Sınıf</option>
-                      <option value="12. Sınıf">12. Sınıf</option>
-                      <option value="Mezun">Mezun</option>
-                    </select>
+                    <label><b>CV'niz</b></label>
+                    <input type="file" name="cv" required={true} />
+                    <small>Buraya cvnizi PDF yada Word formatında yükleyin.</small>
                   </div>
                   <div className={styles.formControl}>
                     <label htmlFor="mesaj">
