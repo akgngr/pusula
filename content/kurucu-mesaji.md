@@ -1,12 +1,9 @@
 ---
 title: Kurucumuzun Mesajı
 ---
-## Kurucumuzun Mesajı;
-<div class="float-left">
-
 ![Kurucu](/image/kurucu.jpeg)
 
-</div>
+## Kurucumuzun Mesajı;
 
 Gelişen, değişen ve küreselleşen dünyamızda ön plana çıkan en önemli ihtiyaçlarımızın başında eğitim gelmektedir. Öyle ki günümüzde eğitim, bireylerin gelecekte oluşacak maddi ve manevi ihtiyaçlarını karşılayabilecek donanımda olabilmelerini sağlamak için yapılması gereken en kalıcı yatırımlardan biri haline gelmiştir. Bundan dolayı ‘‘Eğitim geleceğe yapılan yatırımdır.’’ Diyoruz.
 
