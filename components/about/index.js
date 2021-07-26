@@ -1,7 +1,7 @@
 import { Component } from 'react';
 import { attributes, react as AboutCompnent } from '../../content/about.md';
 import styles from './styles.module.css';
-import CountUp from 'react-countup';
+import SimpleReactLightbox, { SRLWrapper } from "simple-react-lightbox";
 
 class about extends Component {
   render() {
@@ -11,12 +11,20 @@ class about extends Component {
         <div className={styles.overlay}></div>
         <div className={styles.about}>
           <div className={styles.aboutimg}>
+          <SimpleReactLightbox>
+          <SRLWrapper>
             <a
-              href="https://vimeo.com/45830194"
+              href="https://www.youtube.com/embed/SQjt1ubZ_Nw"
               className="h-20 w-20 flex justify-center items-center rounded-full bg-white"
+              srl_video_thumbnail="/image/about-2.jpg"
+              srl_video_loop="true"
+              srl_video_scale="80"
+              srl_video_caption="Twitch video"
             >
-              <span className={styles.iconplay}></span>
+              <img src="/image/play.png" className="styles_iconplay__18yIe" />
             </a>
+          </SRLWrapper>
+          </SimpleReactLightbox>
           </div>
           <div className="z-10 mr-4 ml-4">
             <h1 className="text-4xl font-bold pb-8">{title}</h1>
