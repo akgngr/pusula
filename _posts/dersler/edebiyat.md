@@ -1,15 +1,21 @@
 ---
-title: 'Edebiyat'
-description: 'Dil, bir toplumun ortak değerler üzerinde anlaşabilmesi, o toplumun sorunlarını konuşarak çözmesi açısından en önemli etkendir.'
-slug: 'edebiyat'
-image: '/image/edebiyat.jpg'
+title: Lise
+description: "Kadromuz, alanında uzman ve en az 10 yıllık tecrübeye sahip
+  öğretmenlerden oluşmaktadır. "
+slug: lise
+image: /image/edebiyat.jpg
 ---
-## Edebiyat
-Dil, bir toplumun ortak değerler üzerinde anlaşabilmesi, o toplumun sorunlarını konuşarak çözmesi 
-açısından en önemli etkendir. Toplu yaşamayı kolaylaştırmada en önemli araç olan dil, öğrenim ve 
-öğretimde de anahtardır. Bilgi aktarmayı ve bilgi biriktirmeyi sadece onunla gerçekleştirebiliriz. 
-Uygarlığın ulaştığı noktayı da dilin varlığına bağlayabiliriz.
-
-Türk Dili ve Edebiyatı dersleri işlediği konular itibariyle dille ilgili hedeflere yöneliktir. Bu hedefler doğrultusunda dil ve edebiyat öğretiminin birbirinden soyutlanmadan yürütülmesi bir amaçtır. Dilimizin temel kurallarını öğrenip onu iyi kullanan bireyler yetiştirmek, en önemli amacımızdır. Çünkü dil, bir insan topluluğunun “ulus” kimliğini kazanmasında ve onu korumasında en önemli etkendir. Bu amaçlar doğrultusunda elde edilecek kazanımlar, alandaki başarıyla beraber anlama ve kavramayı da artıracağı için genel başarının artışına doğru atılan ilk adımı oluşturur.
-
-Edebiyat öğretimi, beğenilerimizi ve kültürümüzü geliştirirken öğrencinin ana dilinde olgunluğa ulaşmasıyla, dilin inceliklerine varmasını, düşüncelerini çeşitlendirmesini, yapıcı olmasını sağlar. Türk Dili ve Edebiyatı dersinde edebiyatımızdaki seçkin örnekler aracılığıyla edebi türler öğretilmektedir. Metinlerden yola çıkılarak edebiyat bilgilerinin verilmesi, öğrencilerimizi ezbercilikten uzaklaştırarak konuları kavramaları, yeteneklerini geliştirici yöntemler uygulanarak da edebiyatı sevmeleri amaçlanır. Türk Dili ve Edebiyatı dersi öğrencilerin dinlediklerini, okuduklarını incelik ve derinlikleriyle kavrayan bireyler olmalarını amaçlarken gerek sözlü gerek yazılı dilde Türkçenin söylenişine ve estetik görünüşüne özen göstermelerini beraberinde getirir. Öğrencilerimize Türk ve Dünya Edebiyatının seçkin eserleri okutularak, onlara edebiyatın kültürel yönü tanıtılır ve bu kültürlerden yararlanarak, öğrencilerimizin estetik yönden geliştirilmeleri hedeflenir.
+Lise
+* Kadromuz, alanında uzman ve en az 10 yıllık tecrübeye sahip öğretmenlerden oluşmaktadır. 
+* Sınava hazırlanırken öğrencilerimiz hem sosyal hem de akademik alandan danışmanları tarafından takip edilip destek alır. 
+* Eksik görülen durumlarda anında müdahale edilip eksikler tamamlanır. 
+* Sınıf mevcutları maksimum 8 kişi olup bire bir ilgi gösterme amaçlanır. 
+* Öğrenciye eğitim koçluğu sistemi yanında psikolojik danışmanlık hizmeti de sağlanır. 
+* Yeni nesil soru çözüm teknikleri kadromuzun uzmanlık alanıdır. 
+* Kurumumuz butik olup kişiye özel destek imkanı sağlanır. 
+* Grup halinde yapılan kayıtlarda özel indirimler mevcuttur. 
+* Bire bir eğitim (özel ders) seçeneğimiz mevcuttur. 
+* İsteğe göre tek dersten grup sınıfı oluşturma imkanı vardır. 
+* TYT-AYT imkanlarının tamamı 9. 10. 11. sınıflar için de sağlanmaktadır.
+* Eğitim öğretime dair ne ihtiyacınız varsa söyleyin biz gerçekleştirelim.
+* Her çocuk özeldir ve özel ilgiyi hak eder. Kalabalıklar içinde kaybolmasını istemediğiniz en kıymetli varlıklarınızı bize emanet ediniz. Sadece anne-baba olmanın keyfini çıkarın.
