@@ -1,34 +1,21 @@
 ---
-title: "Coğrafya"
-description: "Çoğrafya bir yer bilimidir. Yer yüzünün yapısını ve şeklini inceler."
-slug: "cografya"
-image: '/image/cografya.jpg'
+title: Ortaokul LGS
+description: "LGS kadromuz, alanında uzman ve en az 10 yıllık tecrübeye sahip
+  öğretmenlerden oluşmaktadır. "
+slug: ortaokul
+image: /image/cografya.jpg
 ---
-## Coğrafya
-Bir bilim olarak coğrafya, insanın içinde yaşadığı doğal çevrenin özelliklerini, 
-insan-doğal çevre etkileşimini ve bu etkileşim sonucu insanın ortaya koyduğu 
-beşeri ve ekonomik etkinlikleri inceler. Coğrafya yeryüzündeki doğal  oluşumları ve 
-bunları belirleyen  konu ve olayları açıklarken Fen Bilimlerinden;  toplumsal, kültürel ve 
-ekonomik konu ve olayları açıklarken Sosyal Bilimlerden yararlanır. 
-Ayrıca Mustafa Kemal Atatürk: “Ben askeri meseleleri olduğu gibi, siyasi meseleleri de haritadan mütalaa ederim” 
-derken bu bilimin önemini vurgulamıştır.
-
-Coğrafya, insanlar ve yer (mekân) ile bunlar arasındaki ilişkiyi inceleyen bilimdir. 
-Yani yer ve insanlar arasındaki ilişkiler coğrafyanın konusunu oluşturur. 
-Coğrafya sadece yerlerin isimlerini ezberleme ve bunların dünya üzerinde nerede olduklarını gösterme değildir. 
-Coğrafya, öğrencilerin çevrelerinde olanları anlamalarına ve insanın çevre ile etkileşimi hakkında bir anlayış 
-geliştirmelerine yardımcı olur. Yerlerin isimlerini, lokasyonlarını ve özelliklerini bilmek, 
-coğrafyanın temelini oluşturan unsurlardır. 
-
-### Coğrafya öğretiminin genel amaçları şunlardır:
-
-- İnsan – doğa ilişkisi çerçevesinde coğrafi sorgulama becerileri kazanır.
-- Evrene ait temel unsurları yaşamla ilişkilendirir.
-- Doğal ve beşerî sistemlerin işleyiş ve değişimini kavrar.
-- Yakın çevresinden başlayarak ülkesine ve dünyaya ait mekânsal değerlere sahip çıkma bilinci geliştirir.
-- Ekosistemin işleyişine yönelik sorumluluk bilinci geliştirir.
-- Doğa ve insanın uyumlu birlikteliği ve sürekliliği için mekânsal planlamanın önemini kavrar.
-- Doğal ve beşerî kaynakların kullanımında “tasarruf bilinci” geliştirir.
-- Bölgesel ve küresel düzeyde etkin olan çevresel, kültürel, siyasi ve ekonomik örgütlerin uluslararası ilişkilerdeki rolünü kavrar.
-- Coğrafi birikim ve sentez ülkesi olan Türkiye’nin bölgesel ve küresel ilişkiler açısından konum özelliklerini kavrayarak sahip olduğu potansiyelin bilincine varır.
-- Coğrafi değerlerin “vatan bilincinin” kazanılmasındaki önemini özümser.
+Oortaokul LGS
+* LGS kadromuz, alanında uzman ve en az 10 yıllık tecrübeye sahip öğretmenlerden oluşmaktadır. 
+* Sınava hazırlanırken öğrencilerimiz hem sosyal hem de akademik alandan danışmanları tarafından takip edilip destek alır. 
+* Eksik görülen durumlarda anında müdahale edilip eksikler tamamlanır. 
+* Sınıf mevcutları maksimum 12 kişi olup bire bir ilgi gösterme amaçlanır. 
+* Öğrenciye eğitim koçluğu sistemi yanında psikolojik danışmanlık hizmeti de sağlanır. 
+* Yeni nesil soru çözüm teknikleri kadromuzun uzmanlık alanıdır. 
+* Kurumumuz butik olup kişiye özel destek imkanı sağlanır. 
+* Grup halinde yapılan kayıtlarda özel indirimler mevcuttur. 
+* Bire bir eğitim (özel ders) seçeneğimiz mevcuttur. 
+* İsteğe göre tek dersten grup sınıfı oluşturma imkanı vardır. 
+* LGS imkanlarının tamamı 5. 6. 7. sınıflar için de sağlanmaktadır.
+* Eğitim öğretime dair ne ihtiyacınız varsa söyleyin biz gerçekleştirelim.
+* Her çocuk özeldir ve özel ilgiyi hak eder. Kalabalıklar içinde kaybolmasını istemediğiniz en kıymetli varlıklarınızı bize emanet ediniz. Sadece anne-baba olmanın keyfini çıkarın.
