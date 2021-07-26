@@ -51,7 +51,7 @@ export default function Navbar({ fixed }) {
     },
     {
       name: 'İnsan Kaynakları',
-      url: '/insan-kaynaklari',
+      url: '/is-basvurusu',
     },
     {
       name: 'Duyurular',

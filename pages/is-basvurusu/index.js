@@ -76,7 +76,9 @@ class InsanKaynaklari extends Component {
                 </form>
               </div>
             </article>
+            {/**
             <script src="https://yastatic.net/s3/frontend/forms/_/embed.js"></script><iframe src="https://forms.yandex.com/u/60fee07d096c8b1e7c13d8b7/?iframe=1" frameborder="0" name="ya-form-60fee07d096c8b1e7c13d8b7" width="100%"></iframe>
+             */}
             <div className={styles.haritalar}>
               <div className={styles.iletisimalt}>
                 <div>
