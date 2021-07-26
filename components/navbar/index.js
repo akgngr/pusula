@@ -36,7 +36,7 @@ export default function Navbar({ fixed }) {
       url: '/subelerimiz',
       dropdown: [
         {
-          name: 'Okyonus Şubesi',
+          name: 'Okyanus Şubesi',
           url: '/subelerimiz/okyonus',
         },
         {

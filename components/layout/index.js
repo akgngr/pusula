@@ -32,7 +32,7 @@ const layout = ({ children }) => {
               <div className="flex flex-col">
                 <span className="font-bold">Telefon</span>
                 <span>
-                  <a href="tel:+905551976303">0507 152 09 56</a>{' '}
+                  <a href="tel:+905551976303">05551976303</a>{' '}
                 </span>
               </div>
               
@@ -48,7 +48,7 @@ const layout = ({ children }) => {
               <div className="flex flex-col">
                 <span className="font-bold">Whastapp</span>
                 <span>
-                  <a href="https://wa.me/905551976303">0507 152 09 56</a>{' '}
+                  <a href="https://wa.me/905551976303">05551976303</a>{' '}
                 </span>
               </div>
               
