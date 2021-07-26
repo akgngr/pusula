@@ -40,7 +40,7 @@ class InsanKaynaklari extends Component {
                       Don’t fill this out if you’re human: <input name="bot-field" />
                     </label>
                   </p>
-                  <input type="hidden" name="form-name" value="yazkursu" />
+                  <input type="hidden" name="form-name" value="isbasvuruformu" />
                   <div className={styles.formControl}>
                     <label htmlFor="name">
                       <b>Adınız Soyadınız</b>
