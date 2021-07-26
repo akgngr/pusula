@@ -4,13 +4,12 @@ description: İlkokulda öğrencilerimiz bilişsel gelişim olarak somut işleml
   dönemindedir. Bu nedenle somut öğrenme yaşantıları öğrenmeyi kalıcı hale
   getirir.
 slug: ilkokul
-image: /image/kimya.jpg
+image: /image/ingilizce.jpg
 ---
+
 İlkokul Kursları
 
-
 İlkokulda öğrencilerimiz bilişsel gelişim olarak somut işlemler dönemindedir. Bu nedenle somut öğrenme yaşantıları öğrenmeyi kalıcı hale getirir.
-
 
 Pusula kurs merkezi olarak ilkokulda öğrencilerimizin somut öğrenme yaşantılarıyla öğrenmelerini kalıcı hale getiriyoruz. Temel yaşam becerilerini (özgüven, özdenetim vb.) destekleyerek temel değerlerini oluşturmalarını (sevgi, saygı, hoşgörü, adalet, yardımseverlik, çevre duyarlılığı, doğa sevgisi vb.) önemsiyoruz.
 
@@ -18,7 +17,7 @@ MEB müfredatına göre oluşturduğumuz eğitim içeriklerini bireysel ve grup 
 
 Her gün rutin olarak yaptığımız okuma çalışmaları ve kitap etkinlikleri ile okuma kültürlerini oluşturmalarını sağlıyoruz.
 
-Aile etkinlik önerilerimiz ile öğrenmenin yalnızca okul içinde değil hayatın içinde olduğunu fark ettiriyoruz. Biliyoruz ki en iyi öğrenme okul, aile,  öğrenci üçgeni doğru iletişim ile mümkün olmaktadır.
+Aile etkinlik önerilerimiz ile öğrenmenin yalnızca okul içinde değil hayatın içinde olduğunu fark ettiriyoruz. Biliyoruz ki en iyi öğrenme okul, aile, öğrenci üçgeni doğru iletişim ile mümkün olmaktadır.
 
 Eğitim kurumlarında öğretmen kadrosu çok önemlidir. Deneyimli, başarılı bir öğretmen kadrosu başarının anahtarıdır. Öğretmen-Veli-Öğrenci üçgeninin iyi kurulması gerekmektedir. Biz, öğrencilerimizin kursumuza isteyerek, severek gelmesini sağlayacak samimi, güler yüzlü, ilgili, sevecen zemini sağlamaktayız.
 
