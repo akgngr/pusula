@@ -10,22 +10,7 @@ class about extends Component {
       <section className={styles.section}>
         <div className={styles.overlay}></div>
         <div className={styles.about}>
-          <div className={styles.aboutimg}>
-          <SimpleReactLightbox>
-          <SRLWrapper>
-            <a
-              href="https://www.youtube.com/embed/SQjt1ubZ_Nw"
-              className="h-20 w-20 flex justify-center items-center rounded-full bg-white"
-              srl_video_thumbnail="/image/about-2.jpg"
-              srl_video_loop="true"
-              srl_video_scale="80"
-              srl_video_caption="Twitch video"
-            >
-              <img src="/image/play.png" className="styles_iconplay__18yIe" />
-            </a>
-          </SRLWrapper>
-          </SimpleReactLightbox>
-          </div>
+        <iframe className="z-50" width="560" height="315" src="https://www.youtube.com/embed/SQjt1ubZ_Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <div className="z-10 mr-4 ml-4">
             <h1 className="text-4xl font-bold pb-8">{title}</h1>
             <p className="mb-6">{description1}</p>

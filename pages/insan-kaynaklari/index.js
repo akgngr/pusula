@@ -7,19 +7,15 @@ import Iframe from 'react-iframe';
 import { FaEnvelope, FaMapMarkerAlt, FaPhone } from 'react-icons/fa';
 import Seo from '../../partials/seo';
 
-class yazkursu extends Component {
+class InsanKaynaklari extends Component {
   render() {
     let {
       sube1_title,
       sube1_map,
       sube1_tel,
-      sube1_sabit,
-      sube1_mail,
       sube2_title,
       sube2_map,
       sube2_tel,
-      sube2_sabit,
-      sube2_mail
     } = attributes;
     return (
       <>
@@ -38,7 +34,7 @@ class yazkursu extends Component {
                 </p>
               </header>
               <div className={styles.contactform}>
-                <form method="POST" name="insankaynaklari" action="/success" netlify-honeypot="bot-field" data-netlify="true">
+                <form method="POST" name="isbasvurusu" action="/success" netlify-honeypot="bot-field" data-netlify="true">
                   <p className="hidden">
                     <label>
                       Don’t fill this out if you’re human: <input name="bot-field" />
@@ -65,7 +61,7 @@ class yazkursu extends Component {
                   </div>
                   <div className={styles.formControl}>
                     <label><b>CV'niz</b></label>
-                    <input type="file" name="cv" required={true} />
+                    <input type="file" name="cvdosya" required={true} />
                     <small>Buraya cvnizi PDF yada Word formatında yükleyin.</small>
                   </div>
                   <div className={styles.formControl}>
@@ -185,4 +181,4 @@ class yazkursu extends Component {
   }
 }
 
-export default yazkursu;
+export default InsanKaynaklari;
