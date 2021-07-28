@@ -34,7 +34,7 @@ class InsanKaynaklari extends Component {
                 </p>
               </header>
               <div className={styles.contactform}>
-                <form method="POST" name="isbasvuruformu" action="/success" netlify-honeypot="bot-field" data-netlify="true">
+                <form method="POST" name="isbasvuruformu" action="/success" netlify-honeypot="bot-field" data-netlify="true" enctype="multipart/form-data">
                   <p className="hidden">
                     <label>
                       Don’t fill this out if you’re human: <input name="bot-field" />

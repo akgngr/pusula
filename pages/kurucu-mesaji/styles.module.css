@@ -1,0 +1,9 @@
+.section {
+  @apply w-11/12 m-auto text-justify;
+}
+.article {
+  @apply prose-lg w-full mt-20;
+}
+.article img {
+  @apply lg:float-left lg:pr-8 lg:w-80;
+}

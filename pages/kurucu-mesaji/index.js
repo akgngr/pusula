@@ -3,6 +3,7 @@ import { Component } from 'react';
 import { attributes, react as HakkimizdaCompnent } from '../../content/kurucu-mesaji.md';
 import HeroWrap from '../../components/herowrap';
 import Seo from '../../partials/seo';
+import styles from './styles.module.css'
 
 class misyon extends Component {
   render() {
@@ -16,8 +17,8 @@ Sorgulayan,   Sorunlara pratik  çözüm getiren, Türkiye’nin önde gelen Ün
         />
         <Layout>
           <HeroWrap title={title} />
-          <section className="w-11/12 m-auto text-justify">
-            <article className="prose-lg w-full mt-20">
+          <section className={styles.section}>
+            <article className={styles.article}>
               <HakkimizdaCompnent />
             </article>
           </section>

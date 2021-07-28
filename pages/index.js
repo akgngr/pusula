@@ -14,7 +14,7 @@ import Contact from '../components/contact';
 import Ogrenciyorumlari from '../components/ogrenciyorumlari';
 import Seo from '../partials/seo';
 
-//const { INSTA_URL } = process.env;
+const { INSTA_URL } = process.env;
 
 
 SwiperCore.use([Navigation, Autoplay, Lazy, EffectFade]);
@@ -76,7 +76,7 @@ const Home = ({ file, instadata }) => (
     </section>
     <Contact />
     <Ogrenciyorumlari />
-    {/*
+     
     <section id="instafeed" className={styles.instafeedsection}>
           <Swiper
             slidesPerView={4}
@@ -100,31 +100,32 @@ const Home = ({ file, instadata }) => (
             }}
             >
             {instadata.data.map(d => {
-                    return( 
+                    if(d.media_type === "IMAGE") {
+                      return( 
                         <SwiperSlide key={d.id}>
                         <div className={styles.instafeedcontainer}
                           style={{backgroundImage:`url(${d.media_url})`}}
                         >
                         <a target="_blank" href={d.permalink}><span>{d.caption}</span></a>
                         </div>
-                    </SwiperSlide>
-                    )
+                      </SwiperSlide>
+                      )
+                    }
                 }).slice(0, 10)}
                 
             </Swiper>
         </section>
-        */}
+         
   </Layout>
 );
 
 export const getStaticProps = async () => {
   const files = fs.readdirSync('_posts/dersler');
-  //const instaresult = await fetch( INSTA_URL, {
-  //  method: "GET"
-  //});
+  const instaresult = await fetch( INSTA_URL, {
+    method: "GET"
+  });
 
-  //const instafeed = await instaresult.json();
-
+  const instafeed = await instaresult.json();
 
   const filesread = files.map(file => {
     const markdownWithData = fs.readFileSync(path.join('_posts/dersler', file)).toString();
@@ -140,9 +141,11 @@ export const getStaticProps = async () => {
     props: {
       slugs: files.map(filename => filename.replace('.md', '')),
       file: filesread,
-      //instadata: instafeed 
+      instadata: instafeed 
     },
   };
 };
 
 export default Home;
+
+
