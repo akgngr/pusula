@@ -13,6 +13,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import Contact from '../components/contact';
 import Ogrenciyorumlari from '../components/ogrenciyorumlari';
 import Seo from '../partials/seo';
+import Popup from '../components/popup';
 
 const { INSTA_URL } = process.env;
 
@@ -25,6 +26,7 @@ const Home = ({ file, instadata }) => (
       title="Pusula Kurs Merkezi Şanlıurfa"
       description="18 yılı aşmış tecrübemizle ve deneyimli eğitim kadromuzla öğrencilerimizin hedeflerine ulaşmaları konusunda rehber olmaktan gurur duyuyoruz."
     />
+    <Popup className="z-60" />
     <Slider />
     <Hizmetler />
     <Etkinlik />

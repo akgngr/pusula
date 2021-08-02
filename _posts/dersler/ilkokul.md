@@ -4,7 +4,7 @@ description: İlkokulda öğrencilerimiz bilişsel gelişim olarak somut işleml
   dönemindedir. Bu nedenle somut öğrenme yaşantıları öğrenmeyi kalıcı hale
   getirir.
 slug: ilkokul
-image: /image/ingilizce.jpg
+image: /image/fizik.jpg
 ---
 
 İlkokul Kursları
