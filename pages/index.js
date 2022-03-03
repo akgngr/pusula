@@ -1,22 +1,22 @@
-import Layout from '../components/layout/index';
-import Slider from '../components/homeslider';
-import Etkinlik from '../components/etkinlik';
-import About from '../components/about';
-import Hizmetler from '../components/hizmetler';
-import fs from 'fs';
-import path from 'path';
-import matter from 'gray-matter';
-import Link from 'next/link';
-import styles from '../styles/Home.module.css';
-import SwiperCore, { Navigation, Autoplay, Lazy, EffectFade } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
+import SwiperCore, { Autoplay, EffectFade, Lazy, Navigation } from 'swiper';
+
+import About from '../components/about';
 import Contact from '../components/contact';
+import Etkinlik from '../components/etkinlik';
+import Hizmetler from '../components/hizmetler';
+import Layout from '../components/layout/index';
+import Link from 'next/link';
 import Ogrenciyorumlari from '../components/ogrenciyorumlari';
-import Seo from '../partials/seo';
 import Popup from '../components/popup';
+import Seo from '../partials/seo';
+import Slider from '../components/homeslider';
+import fs from 'fs';
+import matter from 'gray-matter';
+import path from 'path';
+import styles from '../styles/Home.module.css';
 
 const { INSTA_URL } = process.env;
-
 
 SwiperCore.use([Navigation, Autoplay, Lazy, EffectFade]);
 
@@ -78,7 +78,8 @@ const Home = ({ file, instadata }) => (
     </section>
     <Contact />
     <Ogrenciyorumlari />
-     
+
+    {/*
     <section id="instafeed" className={styles.instafeedsection}>
           <Swiper
             slidesPerView={4}
@@ -118,13 +119,14 @@ const Home = ({ file, instadata }) => (
             </Swiper>
         </section>
          
+    */}
   </Layout>
 );
 
 export const getStaticProps = async () => {
   const files = fs.readdirSync('_posts/dersler');
-  const instaresult = await fetch( INSTA_URL, {
-    method: "GET"
+  const instaresult = await fetch(INSTA_URL, {
+    method: 'GET',
   });
 
   const instafeed = await instaresult.json();
@@ -143,11 +145,9 @@ export const getStaticProps = async () => {
     props: {
       slugs: files.map(filename => filename.replace('.md', '')),
       file: filesread,
-      instadata: instafeed 
+      instadata: instafeed,
     },
   };
 };
 
 export default Home;
-
-

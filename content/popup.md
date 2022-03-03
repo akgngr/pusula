@@ -1,4 +1,4 @@
 ---
-image : image/about.jpg
-link: 'http://pusulaegitimkurumu.com'
+image: image/about.jpg
+link: http://pusulaegitimkurumu.com
 ---

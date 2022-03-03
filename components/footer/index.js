@@ -1,10 +1,11 @@
-import styles from './styles.module.css';
+import { FaEnvelope, FaFacebookSquare, FaMapMarkerAlt, FaPhone, FaTwitterSquare, FaYoutube } from 'react-icons/fa';
+import { react as FooterContent, attributes } from '../../content/footer.md';
+
 import { Component } from 'react';
-import { attributes, react as FooterContent } from '../../content/footer.md';
-import { FaMapMarkerAlt, FaPhone, FaEnvelope, FaTwitterSquare, FaFacebookSquare, FaYoutube } from 'react-icons/fa';
 import { ImInstagram } from 'react-icons/im';
-import { SiYoutubetv } from 'react-icons/si';
 import Link from 'next/link';
+import { SiYoutubetv } from 'react-icons/si';
+import styles from './styles.module.css';
 
 class Footer extends Component {
   render() {
@@ -38,7 +39,8 @@ class Footer extends Component {
                 </Link>
               </div>
               <p className="py-4">
-                18 yılı aşkın tecrübemizle ve deneyimli eğitim kadromuzla öğrencilerimizin hedeflerine ulaşmaları konusunda rehber olmaktan gurur duyuyoruz.
+                18 yılı aşkın tecrübemizle ve deneyimli eğitim kadromuzla öğrencilerimizin hedeflerine ulaşmaları
+                konusunda rehber olmaktan gurur duyuyoruz.
               </p>
             </div>
 
@@ -128,7 +130,10 @@ class Footer extends Component {
             </div>
           </div>
           <div className={styles.altfooter}>
-            <div className={styles.altfootertext} dangerouslySetInnerHTML={{ __html: alt_footer }}></div>
+            <div className={styles.altfootertext}>
+              Copyright Pusula Kurs Merkezi © {new Date().getFullYear().toString()} Tüm hakları saklıdır. | Design by{' '}
+              <a href="https://akgngr.com">@akgngr</a>
+            </div>
             <div className={styles.takip}>
               <span>
                 <a target="_blank" href={'https://twitter.com/' + twitter}>
