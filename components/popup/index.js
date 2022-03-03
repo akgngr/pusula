@@ -1,11 +1,10 @@
+import { react as AboutCompnent, attributes } from '../../content/popup.md';
 import { Dialog, Transition } from '@headlessui/react'
 import { Fragment, useState } from 'react'
-import { attributes, react as AboutCompnent } from '../../content/popup.md';
-
 
 export default function MyModal(props) {
   let [isOpen, setIsOpen] = useState(true)
-  let { image } = attributes;
+  let { image, link } = attributes;
 
   function closeModal() {
     setIsOpen(false)
@@ -64,7 +63,9 @@ export default function MyModal(props) {
                 </div>
                 <div className="mt-2">
                   <p className="text-sm text-gray-500">
-                    <img src={ image } />
+                    <a href={link}>
+                      <img src={ image } />
+                    </a>
                   </p>
                 </div>
               </div>

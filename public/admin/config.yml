@@ -71,6 +71,7 @@ collections:
         name: 'popup'
         file: 'content/popup.md'
         fields:
+          - { label: 'Link', name: 'link', widget: 'string' }
           - { label: 'Pop-up Resmi', name: 'image', widget: 'image', default: '/image/about.jpg' }
       - label: 'Etkinlikler'
         name: 'etkinlik'
