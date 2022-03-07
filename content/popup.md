@@ -1,4 +1,4 @@
 ---
-link: http://akgngr.com
-image: image/about.jpg
+link: https://forms.gle/JKQhFHjzo82BmLKX8
+image: /image/webbb-min.png
 ---
