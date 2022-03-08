@@ -13,8 +13,8 @@ slider:
       eksikliğidir. Eğer okuduğumuz şeye odaklanamazsak, aklımız başka yerlerde
       dolaşacak ve başka düşüncelerle meşgul olacaktır. Hızlı okuma
       konsantrasyonu da artıran bir beceridir.
-    title: "Hızlı Okuma Eğitimi ile Okuma hızınızı anlama seviyeniz ile beraber %300
-      geliştirmenizi sağlar. "
+    title: "Hızlı Okuma Eğitimi ile Okuma ve anlama seviyenizi %300 geliştirmenizi
+      sağlar. "
     image: /image/concentrated-girl-surrounded-by-books.jpg
     url: /iletisim
 ---
