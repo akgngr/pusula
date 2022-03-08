@@ -3,7 +3,7 @@ title: Pusula Kurs Merkesi Hakkında
 description: 18 yılı aşmış tecrübemizle ve deneyimli eğitim kadromuzla
   öğrencilerimizin hedeflerine ulaşmaları konusunda rehber olmaktan gurur
   duyuyoruz.
-image: /image/group-people-working-out-business-plan-office.jpg
+image: /image/group-confident-businesspeople-office.jpg
 etkinlikler:
   - description: Bizim için önceliğimiz güvenliktir. Öğrencilerimizin güvenli bir
       ortamda ders işlemesidir.
