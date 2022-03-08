@@ -1,7 +1,7 @@
 ---
 baslik: Slider Resimleri
 slider:
-  - description: Alanında uzman eğitim kadromuzla eğitimlerimiz son hız devam ediyor.
+  - description: Alanında uzman eğitim kadromuzla eğitimlerimiz devam ediyor.
     title: Alanında Uzman Eğitim Kadromuz
     image: image/bg_1.jpg
     url: /iletisim
