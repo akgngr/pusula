@@ -19,7 +19,7 @@ slider:
       Bursluluk sınav tarihlerimiz  
 
 
-      2,3 ve 4.sınıflar için 26 Mart 2022 Cumartesi günü 
+      2,3 ve 4.sınıflar için 26 Mart 2022 Cumartesi günü                                                                                                              
 
 
       5,6 ve 7.sınıflar için 27 Mart 2022 Pazar günü
