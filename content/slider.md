@@ -5,16 +5,21 @@ slider:
     title: Alanında Uzman Eğitim Kadromuz
     image: image/bg_1.jpg
     url: /iletisim
-  - description: Çoğu insan, ortalama okuma hızı olan 150 -250 kelime/dakika
-      aralığında bir okuma yeteneğine sahiptir. Ancak bazı insanlar 500 – 800
-      kelime/dakika hızda okuyabilirler. Peki, neden arada böyle bir boşluk var?
-      Bunun iki temel sebebi var. Birincisi, öğrendiğimiz geleneksel okuma tarzı
-      çok verimli değildir. İkinci neden odaklanma ve konsantrasyon
-      eksikliğidir. Eğer okuduğumuz şeye odaklanamazsak, aklımız başka yerlerde
-      dolaşacak ve başka düşüncelerle meşgul olacaktır. Hızlı okuma
-      konsantrasyonu da artıran bir beceridir.
+  - description: 2 Hafta süren Anlayarak Hızlı Okuma Eğitimi ile siz de okuma
+      hızınızı arttırabilirsiniz.
     title: "Hızlı Okuma Eğitimi ile Okuma ve anlama seviyenizi %300 geliştirmenizi
       sağlar. "
     image: /image/concentrated-girl-surrounded-by-books.jpg
     url: /iletisim
+  - image: /image/lecture-college.jpg
+    title: 2,3,4,5,6 ve 7. sınıflar için Bursluluk Sınavı
+    description: >-2
+       Sınavlar pandemi önlemleri çerçevesinde öğrenciye özel gerçekleşecektir.
+
+      Bursluluk sınav tarihlerimiz  
+
+      2,3 ve 4.sınıflar için 26 Mart 2022 Cumartesigünü 
+
+      5,6 ve 7.sınıflar için 27 Mart 2022 Pazar günü
+    url: https://forms.gle/JKQhFHjzo82BmLKX8
 ---
