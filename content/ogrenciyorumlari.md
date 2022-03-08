@@ -1,16 +1,22 @@
 ---
-title: "Öğrenci yorumları"
+title: Yorumlar
 comment:
-    - isim: "Ahmet M."
-      image: "/image/User-16.png"
-      statu: "Öğrenci"
-      mesaj: "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia."
-    - isim: "Sevgi D."
-      image: "/image/User-2.png"
-      statu: "Anne"
-      mesaj: "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia."
-    - isim: "Selim C."
-      image: "/image/User-16.png"
-      statu: "Baba"
-      mesaj: "Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia."
+  - isim: Gülperi Narin
+    image: /image/gnozmi0-_400x400.jpg
+    statu: Öğretmen
+    mesaj: >
+      Az öğrenci çok ilgi ve kalite Pusulada. Çocuklarınızı güvenle eğitim
+      alabilecekleri bir kurum
+  - isim: Ahmet Yusufoğlu
+    image: /image/User-2.png
+    statu: Veli
+    mesaj: >
+      Başındaki insan eğitimin duayeni. Evlatlarınızla birebir ilgilenir. Mekan
+      olarak ta güzel.
+  - isim: Melek Beslenen
+    image: /image/User-6.png
+    statu: Öğretmen
+    mesaj: Çok iyi bir kurum.Hedefleri para değil eğitim.Öğrencileri geleceğe daha
+      iyi birşekilde hazırlamak.Dersleri teorikle anlatıp pratikle pekiştirerek
+      destekliyor.
 ---
