@@ -9,15 +9,14 @@ etkinlikler:
       ortamda ders işlemesidir.
     name: Önce Güvenlik
     icon: svg/shield.svg
-  - description: Kaliteli ders işlemek için öğrencilerimize yetecek kadar
-      sınıflarımız mevcuttur.
-    name: Yeterli Sınıflar
+  - description: "Kaliteli ders işlemek için öğrenci sayımızı 12 ile sınırlandırdık. "
+    name: 12 Kişilik Sınıflar
     icon: svg/education.svg
   - description: Alanında uzman eğitim kadromuzla öğrencilerimize kaliteli eğitim
       vermekteyiz.
     name: Uzman Öğretmenler
     icon: svg/certificate.svg
-  - description: Kurs merkezimiz genelinde ve ayrıca sınıflarımızı düzenli bir
+  - description: Kurs merkezimiz genelini ve ayrıca sınıflarımızı düzenli bir
       şekilde dezenfekte ediyoruz.
     name: Hijyenik Ortam
     icon: svg/hygiene.svg
@@ -26,7 +25,7 @@ etkinlikler:
     name: Bire Bir Dersler
     icon: svg/meeting.svg
   - description: Sadece ders odaklı değil öğrencilerimizi sosyal hayata daha iyi
-      adapte olmaları için rehberlik yapıyoruz.
+      adapte olmaları için sosyal ve kültürel etkinlikler düzenliyoruz.
     name: Etkinlikler
     icon: svg/social.svg
 ---
