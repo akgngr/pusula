@@ -11,17 +11,10 @@ slider:
     title: Hızlı Okuma Eğitimi
     image: /image/concentrated-girl-surrounded-by-books.jpg
     url: /iletisim
-  - image: /image/lecture-college.jpg
-    title: 2,3,4,5,6 ve 7. sınıflar için Bursluluk Sınavı
-    description: >-2
-       Sınavlar pandemi önlemleri çerçevesinde öğrenciye özel gerçekleşecektir.
-
-      Bursluluk sınav tarihlerimiz  
-
-
-      2,3 ve 4.sınıflar için 26 Mart 2022 Cumartesi günü                                                                                                              
-
-
-      5,6 ve 7.sınıflar için 27 Mart 2022 Pazar günü
-    url: https://forms.gle/JKQhFHjzo82BmLKX8
+  - image: /image/kariyer-1314x800.jpg
+    title: Öğrenci Koçluğu
+    description: Öğrencinizin, okuldaki başarısını yükseltip, ve onun sınav
+      yolculuğunda alanında profesyonel biri tarafından takip edilmesini
+      isterseniz iletişime geçiniz.
+    url: https://www.instagram.com/egitimkocu_by/
 ---
