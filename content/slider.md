@@ -3,7 +3,7 @@ baslik: Slider Resimleri
 slider:
   - description: Alanında uzman eğitim kadromuzla eğitimlerimiz devam ediyor.
     title: Alanında Uzman Eğitim Kadromuz
-    image: image/bg_1.jpg
+    image: /image/group-people-working-out-business-plan-office.jpg
     url: /iletisim
   - description: 2 Hafta süren Anlayarak Hızlı Okuma Eğitimi ile siz de okuma
       hızınızı arttırabilirsiniz. Eğitimi ile Okuma ve anlama seviyenizi %300
