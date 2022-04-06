@@ -1,7 +1,8 @@
 ---
 baslik: Slider Resimleri
 slider:
-  - description: Alanında uzman eğitim kadromuzla eğitimlerimiz devam ediyor.
+  - description: Alanında uzman eğitim kadromuz ile öğrencilerimizin akademik
+      gelişimlerine katkı sağlıyoruz.
     title: Alanında Uzman Eğitim Kadromuz
     image: /image/group-people-working-out-business-plan-office.jpg
     url: /iletisim
