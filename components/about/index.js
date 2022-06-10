@@ -1,7 +1,7 @@
 import { Component } from 'react';
 import { attributes, react as AboutCompnent } from '../../content/about.md';
 import styles from './styles.module.css';
-import SimpleReactLightbox, { SRLWrapper } from "simple-react-lightbox";
+import SimpleReactLightbox, { SRLWrapper } from 'simple-react-lightbox';
 
 class about extends Component {
   render() {
@@ -10,7 +10,16 @@ class about extends Component {
       <section className={styles.section}>
         <div className={styles.overlay}></div>
         <div className={styles.about}>
-        <iframe className="z-50" width="560" height="315" src="https://www.youtube.com/embed/SQjt1ubZ_Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe
+            className="z-50"
+            width="100%"
+            height="315"
+            src="https://www.youtube.com/embed/SQjt1ubZ_Nw"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
           <div className="z-10 mr-4 ml-4">
             <h1 className="text-4xl font-bold pb-8">{title}</h1>
             <p className="mb-6">{description1}</p>
